@@ -10,7 +10,7 @@ My first solo internship project involving statistical analysis and testing of a
 
 **IDE:** Google Colaboratory
 
-**Data:** Daily Closing Prices of 22 different crypto coins compiled in a range from 05/10/2020 to 27/02/2021
+**Data:** Extracted Daily Closing Prices of 22 different crypto coins compiled in a range from 05/10/2020 to 27/02/2021 from [this](https://github.com/babasxn/cryptoAnalysis/blob/main/crypto_train.zip)
 
 **Prediction Model:** Keras Deep learning RNN
 
