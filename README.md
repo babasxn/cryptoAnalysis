@@ -1,4 +1,4 @@
-# Cryptocurrency Value and Risk Analysis Financial Model using Keras and Plotly
+# Cryptocurrency Value and Risk Analysis Financial Model using Data Science/ML
 
 My first solo internship project involving statistical analysis and testing of a self made prediction model based on the data of a bunch of major cryptocurrency coins
 
@@ -14,7 +14,7 @@ My first solo internship project involving statistical analysis and testing of a
 
 **Prediction Model:** Keras Deep learning RNN
 
-**Notebook:** [Link](https://colab.research.google.com/drive/1_7JOCQM4dHSGqj0YbmtLZ1_ni0nqWJIZ?usp=sharing)
+**Notebook:** [Direct Link](https://colab.research.google.com/drive/1_7JOCQM4dHSGqj0YbmtLZ1_ni0nqWJIZ?usp=sharing) or [Here](https://github.com/babasxn/cryptoAnalysis/blob/main/CryptoAnalysis.ipynb)
 
 # Introduction
 
