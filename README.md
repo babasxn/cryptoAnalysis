@@ -1,6 +1,6 @@
 # Cryptocurrency Value and Risk Analysis Financial Model using Data Science/ML
 
-My first solo internship project involving statistical analysis and testing of a self made prediction model based on the data of a bunch of major cryptocurrency coins
+Statistical analysis and testing of a self made prediction model based on the data of a bunch of major cryptocurrency coins
 
 # Project Brief
 
